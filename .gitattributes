@@ -1,0 +1,12 @@
+*.dll filter=lfs diff=lfs merge=binary -text
+*.png filter=lfs diff=lfs merge=binary -text
+*.asset filter=lfs diff=lfs merge=binary -text
+*.psd filter=lfs diff=lfs merge=binary -text
+*.pdf filter=lfs diff=lfs merge=binary -text
+*.otf filter=lfs diff=lfs merge=binary -text
+*.prefab filter=lfs diff=lfs merge=binary -text
+*.ttf filter=lfs diff=lfs merge=binary -text
+*.jpg filter=lfs diff=lfs merge=binary -text
+*.unity filter=lfs diff=lfs merge=binary -text
+*.wav filter=lfs diff=lfs merge=binary -text
+*.bytes filter=lfs diff=lfs merge=binary -text
